@@ -5,9 +5,6 @@ __pycache__/
 # Ignore compiled CUDA binaries
 compute
 
-# Ignore environment configuration files
-config.env
-
 # Ignore output and lock files
 *.csv
 *.lock
