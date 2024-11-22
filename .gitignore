@@ -1,0 +1,23 @@
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore compiled CUDA binaries
+compute
+
+# Ignore environment configuration files
+config.env
+
+# Ignore output and lock files
+*.csv
+*.lock
+
+# Ignore shell script logs
+*.log
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore other system files
+.DS_Store
+Thumbs.db
